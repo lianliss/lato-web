@@ -1,0 +1,13 @@
+{
+  "name": "lato-web",
+  "private": false,
+  "version": "1.0.0",
+  "description": "Web optimized font Lato",
+  "keywords": ["font", "lato"],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:LDevil2209/lato-web.git"
+  },
+  "license": "GNU General Public License v3.0",
+  "author": "LDevil2209"
+}
